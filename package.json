@@ -1,0 +1,10 @@
+{
+  "name": "girls-day",
+  "version": "1.0.0",
+  "description": "girls day @diva-e",
+  "main": "index.html",
+  "scripts": {
+    "test":  "npm test"
+  },
+  "author": "diva-e jena"
+}
