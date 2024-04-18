@@ -1,10 +1,9 @@
 function clickButtonOne() {
   let text = "Für mehr Infos gehen sie bitte auf die Webseite des Tierheims​";
   alert(text);
-  console.log(text);
 }
 
-function clickButtonTwo() {
-  // TODO: Funktion schreiben, die eine Alert-Box öffnet und mehrere Infos zu Abby enthält.
-  // Idealerweise sind die Sätze durch Zeilenumbrüche getrennt
+function clickButtonTwo(input = null) {
+  let text = "Balu\nIst ein verspielter Hund.\nUnd so weiter."
+  alert(input ? input : text);
 }
