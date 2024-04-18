@@ -3,8 +3,12 @@
   "version": "1.0.0",
   "description": "girls day @diva-e",
   "main": "index.html",
+  "author": "diva-e jena",
   "scripts": {
+    "start": "servor --reload",
     "test":  "npm test"
   },
-  "author": "diva-e jena"
+  "dependencies": {
+    "servor": "^4.0.2"
+  }
 }
