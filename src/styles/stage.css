@@ -1,0 +1,40 @@
+.stage {
+  background-image: url("../../img/backgroung.jpg");
+  background-color: #cccccc;
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.stage__content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 75%;
+  height: 50%;
+  color: white;
+}
+
+.stage__button {
+  background-color: #ee0d74;
+  border: 2px solid #ee0d74;
+  border-radius: 25px;
+  color: white;
+  display: inline-block;
+  font-size: 16px;
+  padding: 15px 32px;
+  text-align: center;
+  margin-top: 24px;
+  cursor: pointer;
+}
+
+.stage__button:hover {
+  background-color: #f3559d;
+  border-color: #f3559d;
+}
