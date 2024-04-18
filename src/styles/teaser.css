@@ -33,11 +33,10 @@
 .teaser__list {
   text-align: left;
   margin-bottom: 1rem;
-  /*list-style-image: url(../../img/pfote.png);*/
+  /* list-style-image: url(../../img/pfote.png); */
 }
 
 .teaser__button {
-  /*background-color: #ee0d74; */
   background-color: gray;
   border: none;
   color: white;
@@ -49,6 +48,5 @@
 }
 
 .teaser__button:hover {
-  /*background-color: #f3559d;*/
   background-color: lightgray;
 }
