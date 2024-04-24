@@ -1,6 +1,6 @@
 # Aufgaben
 
-1. Beschreibungtext befüllen
+1. Beschreibungstext befüllen
 2. Hundebilder austauschen und Form anpassen
 3. Farben anpassen
 4. Teaser für einen weiteren Hund anlegen, wobei das Bild nun auf der rechten Seite ist
