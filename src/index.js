@@ -5,8 +5,6 @@ function clickButtonOne() {
 }
 
 function clickButtonTwo() {
-  // toDo: Funktion schreiben, die eine Alert-Box öffnet und mehrere Infos zu Abby enthält. (siehe PPP Folie 16)
+  // TODO: Funktion schreiben, die eine Alert-Box öffnet und mehrere Infos zu Abby enthält.
   // Idealerweise sind die Sätze durch Zeilenumbrüche getrennt
-
-  // https://dog.ceo/api/breeds/image/random ggf als Zusatzfaufgabe?
 }
